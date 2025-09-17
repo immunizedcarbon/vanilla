@@ -4,13 +4,9 @@
     <color name="md_theme_light_onPrimary">#FFFFFF</color>
     <color name="md_theme_light_secondary">#625B71</color>
     <color name="md_theme_light_onSecondary">#FFFFFF</color>
-    <color name="md_theme_light_background">#FFFBFE</color>
-    <color name="md_theme_light_onBackground">#1C1B1F</color>
     <color name="md_theme_dark_primary">#CFBCFF</color>
     <color name="md_theme_dark_onPrimary">#381E72</color>
     <color name="md_theme_dark_secondary">#CCC2DC</color>
     <color name="md_theme_dark_onSecondary">#332D41</color>
-    <color name="md_theme_dark_background">#1C1B1F</color>
-    <color name="md_theme_dark_onBackground">#E6E1E5</color>
     <color name="ic_launcher_background">#212121</color>
 </resources>
