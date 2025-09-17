@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vanilla Music</string>
+    <string name="no_music_found">No audio files found on this device.</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="refresh_library">Refresh library</string>
+    <string name="no_track_selected">Select a track to start playback.</string>
+    <string name="track_subtitle_format">%1$s • %2$s • %3$s</string>
+    <string name="permission_denied">Storage permission is required to list music on this device.</string>
+    <string name="playback_error">Playback could not be started.</string>
+</resources>
